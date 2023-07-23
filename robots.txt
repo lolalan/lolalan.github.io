@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.hkcfu.review/welcome/sitemap.xml
+Sitemap: https://www.hkcfu.review/sitemap.xml
